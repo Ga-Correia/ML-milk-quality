@@ -10,4 +10,6 @@ aprendizado de máquina supervisionados sobre um conjunto de dados que indicam a
 
 Tanto o arquivo da aplicação quanto o do artigo possuem o mesmo nome, sendo toda a aplicação desenvolvida dentro da plataforma do Google Colab.
 
-Também neste repositório o conjunto de dados testatdos, referentes a qualidade do leite, e um vídeo em mp4 explicando o projeto. 
+Também neste repositório encontra-se o conjunto de dados testados, referentes a qualidade do leite, e um vídeo em mp4 explicando o projeto.
+
+Link do youtube para vídeo explicando a aplicação: https://www.youtube.com/watch?v=X0UGlWGZv_0
